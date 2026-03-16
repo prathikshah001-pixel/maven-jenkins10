@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps Techlab</h1>
-    <p>jenkins 123</p>
+    <h1>Dimple techlab</h1>
+    <p>deploy pipeline </p>
     <hr>
      
     <label for="Name"><b>Enter name</b></label>
