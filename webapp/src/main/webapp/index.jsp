@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Dimple techlab</h1>
+    <h1>Dimple devops techlab</h1>
     <p>build and deploy pipeline </p>
     <hr>
      
