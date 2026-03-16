@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Dimple devops techlab</h1>
-    <p>build and deploy pipeline finally run</p>
+    <h1>Dimple devops techlab </h1>
+    <p>build and deploy pipeline</p>
     <hr>
      
     <label for="Name"><b>Enter name</b></label>
